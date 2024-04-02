@@ -1,5 +1,5 @@
 
-# Autonomous Flying Wing
+#  Flying Wing design and analysis
 
 What Are Flying Wings? 
 Flying wings are a type of aircraft design that integrates the fuselage and wing into a single cohesive structure. This design eliminates the need for separate tail and fuselage components, making the aircraft more aerodynamically efficient. The entire airframe contributes to lift generation, leading to a unique blend of efficiency and performance.
