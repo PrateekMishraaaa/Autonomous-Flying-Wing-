@@ -37,7 +37,7 @@ Design Details
 •	Weight: 1.767kg (glass fibre material) 
 
 
-![App Screenshot](https://github.com/PrateekMishraaaa/Autonomous-Flying-Wing-/blob/main/images/Analysis%20details%20.png)
+![App Screenshot](https://raw.githubusercontent.com/PrateekMishraaaa/Autonomous-Flying-Wing-/main/images/Wing%20details%20.png)
 
 
 Airfoil Selection
@@ -90,7 +90,17 @@ Its symmetrical nature and robust performance characteristics make it suitable f
 ![App Screenshot](https://raw.githubusercontent.com/PrateekMishraaaa/Autonomous-Flying-Wing-/main/images/NACA%200012.png)
 
 
+## Plane Inertia 
+
+![App Screenshot](https://raw.githubusercontent.com/PrateekMishraaaa/Autonomous-Flying-Wing-/main/images/plane%20inertia%20.png)
+
+The weight distribution of the aircraft is a critical factor in its overall design and flight characteristics, impacting stability, control, and performance.
 ## Analysis result 
+
+Analysis Type 
+
+![App Screenshot](https://raw.githubusercontent.com/PrateekMishraaaa/Autonomous-Flying-Wing-/main/images/Analysis%20details%20.png)
+
 
 Aerodynamic Analysis Report
 
