@@ -47,6 +47,28 @@ Airfoil Selection
 •	Fuselage Airfoil: For the integrated fuselage section, the NACA 0012 airfoil is chosen. Given that flying wings blend the wing and fuselage into a single body, the NACA 0012 provides a robust, symmetrical profile that contributes to stability and helps manage the airflow over the body, especially at varying angles of attack.
 
 
+## Airfoils
+
+MH 49 Airfoil:
+
+Developed by Martin Hepperle, the MH 49 is a laminar flow airfoil optimized for gliders and electric aircraft.
+It is designed to achieve high lift-to-drag ratios at low Reynolds numbers, making it efficient for slow to moderate speed flight regimes.
+The airfoil has a relatively thin profile and exhibits good performance in terms of both lift and resistance to stall.
+Ideal for use in the main wing of aircraft that require efficient cruise performance and good handling at low speeds, such as gliders, UAVs, and efficient, long-range flying wings.
+
+![App Screenshot](https://raw.githubusercontent.com/PrateekMishraaaa/Autonomous-Flying-Wing-/main/images/MH-45%20airfoil.png)
+
+NACA 0012 Airfoil:
+
+A symmetrical airfoil developed by the National Advisory Committee for Aeronautics (NACA).
+It has no camber, which means it produces no lift at zero angle of attack, but it has a predictable stall behavior and generates lift equally well in both positive and negative angles of attack.
+Often used for fuselage design, especially in flying wings, as it provides consistent performance and can help manage the airflow over the body effectively.
+Its symmetrical nature and robust performance characteristics make it suitable for components where directional stability is essential, like vertical stabilizers, or where aerodynamic forces need to be balanced on both sides of the airfoil, such as in the fuselage of a flying wing.
+
+
+![App Screenshot](https://raw.githubusercontent.com/PrateekMishraaaa/Autonomous-Flying-Wing-/main/images/NACA%200012.png)
+
+
 ## Analysis result 
 
 Aerodynamic Analysis Report
