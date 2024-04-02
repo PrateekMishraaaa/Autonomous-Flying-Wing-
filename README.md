@@ -47,6 +47,27 @@ Airfoil Selection
 •	Fuselage Airfoil: For the integrated fuselage section, the NACA 0012 airfoil is chosen. Given that flying wings blend the wing and fuselage into a single body, the NACA 0012 provides a robust, symmetrical profile that contributes to stability and helps manage the airflow over the body, especially at varying angles of attack.
 
 
+## Wing Plane Design 
+
+•	Wing Span: The model features a total wingspan of 1400 mm, suggesting a design that may offer efficient glide and stable flight characteristics.
+
+•	Chord Distribution: It starts with a root chord of 245 mm, tapering to 136.25 mm at the tip, which can help minimize induced drag and improve lift distribution across the span.
+
+•	Sweep: The wing sections are swept back, with offsets listed as -80 mm at the root and 80 mm at the tip, characteristic of designs intended to delay drag rise at higher speeds.
+
+•	Dihedral: Set uniformly at 0 degrees across all sections, indicating a neutral effect on lateral stability from dihedral angle, possibly relying on other design aspects for roll stability.
+
+•	Twist: No twist is indicated for any wing section, which is an unusual choice for flying wings and could suggest reliance on advanced control systems for stability management.
+
+•	Airfoil: A single airfoil type is employed across the span, identified as "9.85%", likely referencing the thickness-to-chord ratio. The selection of airfoil may be based on achieving specific aerodynamic qualities.
+
+•	Aspect Ratio: The aspect ratio is computed to be 8.01, indicative of an efficient design that seeks a compromise between maneuverability and cruising performance.
+
+•	Taper Ratio: With a value of 0.56, the wing shows a moderate taper, enhancing its aerodynamic efficiency and flight characteristics.
+
+
+![App Screenshot](https://raw.githubusercontent.com/PrateekMishraaaa/Autonomous-Flying-Wing-/main/images/Wing%20plane%20window.png)
+
 ## Airfoils
 
 MH 49 Airfoil:
